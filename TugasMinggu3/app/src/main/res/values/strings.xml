@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TugasMinggu3</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="submit">Send</string>
+    <string name="reminder">Reminder</string>
+    <string name="done">Done</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+
+</resources>
